@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amogh-55&label=Profile%20views&color=0e75b6&style=flat" alt="amogh-55" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/amogh-55](https://github.com/amogh-55)
+- 👨‍💻 All of my projects are available at [https://github.com/amogh-55](https://github.com/amogh-55?tab=repositories)
 
 - 📝 My portfolio [https://updatedportfolio-nine.vercel.app/](https://updatedportfolio-nine.vercel.app/)
 
