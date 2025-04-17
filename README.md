@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <h1 align="center">Hi 👋, I'm Amogh Joshi</h1>
 <h3 align="center">Software Developer Creating Seamless Interfaces Where Code Meets Creativity and Brings Ideas to Reality</h3>
 
@@ -45,3 +45,171 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amogh-55&show_icons=true&locale=en" alt="amogh-55" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amogh-55&" alt="amogh-55" /></p>
+-->
+
+<h1 align="center">👨‍💻 Amogh Joshi</h1>
+
+<h3 align="center">Software Developer Creating Seamless Interfaces Where Code Meets Creativity</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/amogh25">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:amoghamith22@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://updatedportfolio-nine.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://www.leetcode.com/amogh12">
+    <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://instagram.com/amogh_5868">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amogh-55&label=Profile%20views&color=41B883&style=flat" alt="profile-views" />
+</p>
+
+## About Me 🚀
+
+<img align="right" alt="coding animation" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+> Software Developer Intern | SIH Grand Finalist ’23 | Machine Learning Engineer | knight @leetcode(rated 1860) | Proficient in Java | AWS | Creating End-to-End Solutions.
+
+- 👨‍💻 All of my projects are available at [my GitHub repositories](https://github.com/amogh-55?tab=repositories)
+- 📝 Check out my portfolio at [updatedportfolio-nine.vercel.app](https://updatedportfolio-nine.vercel.app/)
+- 📄 View my resume [here](https://drive.google.com/file/d/1y9G2nL3rPIHiqj0g6B9Y89oP9R8geFvm/view?usp=sharing)
+- 📫 Contact me at **amoghamith22@gmail.com**
+- 🔭 Currently working on **Full Stack Web Applications**
+- 🌱 I'm currently learning **Advanced System Design & Cloud Architecture**
+- 👯 Looking to collaborate on **innovative web applications and open source projects**
+
+## My Tech Stack 💻
+
+<table align="center">
+  <tr>
+      <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="48" height="48" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="REST API" width="48" height="48" />
+      <br>REST API
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="48" height="48" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="48" height="48" />
+      <br>AWS
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="48" height="48" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" />
+      <br>Docker
+    </td>
+     <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" />
+      <br>JavaScript
+         <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="48" height="48" />
+      <br>Kubernetes
+    </td>
+    </td>
+ 
+  
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express" width="48" height="48" />
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" />
+      <br>PostgreSQL
+    </td>
+  </tr>
+</table>
+
+## Featured Projects 🌟
+
+<p align="center">
+  <a href="https://github.com/amogh-55/fundpitch">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=amogh-55&repo=fundpitch&theme=dark" />
+  </a>
+  <a href="https://github.com/amogh-55/Disaster-Managemet">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=amogh-55&repo=Disaster-Managemet&theme=dark" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/amogh-55/speech-to-text-image-and-video-generation">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=amogh-55&repo=speech-to-text-image-and-video-generation&theme=dark" />
+  </a>
+  <a href="https://github.com/amogh-55/summer-Internship-">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=amogh-55&repo=summer-Internship-&theme=dark" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/amogh-55/-RBAC-Admin-Dashboard">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=amogh-55&repo=-RBAC-Admin-Dashboard&theme=dark" />
+  </a>
+  <a href="https://github.com/amogh-55/Malware-detection">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=amogh-55&repo=Malware-detection&theme=dark" />
+  </a>
+</p>
+
+## GitHub Analytics ⚙️
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amogh-55&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amogh-55&layout=compact&langs_count=7&theme=dark"/>
+</p>
+
+
+
+---
+
+<h3 align="center">Thanks for visiting! Let's connect and create something amazing together. 🚀</h3>
