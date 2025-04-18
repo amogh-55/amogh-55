@@ -55,9 +55,9 @@ Here are some ideas to get you started:
   <a href="https://linkedin.com/in/amogh25">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:amoghamith22@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+ <a href="mailto:amoghamith22@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
   <a href="https://updatedportfolio-nine.vercel.app/">
     <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
@@ -204,8 +204,12 @@ Here are some ideas to get you started:
 ## GitHub Analytics ⚙️
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amogh-55&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amogh-55&theme=dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amogh-55&layout=compact&langs_count=7&theme=dark"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amogh-55&theme=dark" alt="amogh-55" />
 </p>
 
 
