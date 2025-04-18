@@ -213,6 +213,8 @@ Here are some ideas to get you started:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amogh-55&theme=dark" alt="amogh-55" />
 </p>
 
+<!--
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-dark.svg" />
@@ -220,7 +222,7 @@ Here are some ideas to get you started:
     <img alt="GitHub Contribution Grid" src="dist/github-contribution-grid-dark.svg" />
   </picture>
 </p>
-
+--->
 
 
 ---
