@@ -58,7 +58,7 @@ Here are some ideas to get you started:
  <a href="mailto:amoghamith22@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-  <a href="https://updatedportfolio-nine.vercel.app/">
+  <a href="https://port-folio-delta-swart.vercel.app/">
     <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://www.leetcode.com/amogh12">
