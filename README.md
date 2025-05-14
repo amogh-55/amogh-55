@@ -205,12 +205,12 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amogh-55&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amogh-55&layout=compact&langs_count=7&theme=dark"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amogh-55&theme=github_dark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amogh-55&layout=compact&langs_count=7&theme=dark"/>
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amogh-55&theme=dark" alt="amogh-55" />
-</p>
+</p> -->
 
 <!--
 
