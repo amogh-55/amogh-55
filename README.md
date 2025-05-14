@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [my GitHub repositories](https://github.com/amogh-55?tab=repositories)
 - 📝 Check out my portfolio at [here](https://port-folio-delta-swart.vercel.app/)
-- 📄 View my resume [here](https://drive.google.com/file/d/1LXcQ1SU1LltuyTQjVifvOAC71oSUhw4_/view)
+- 📄 View my resume [here](https://drive.google.com/file/d/1MRgIOdVSA-hnFKH2OeDZVxBhTkY14DSu/view?usp=sharing)
 - 📫 Contact me at **amoghamith22@gmail.com**
 - 🔭 Currently working on **Full Stack Web Applications**
 - 🌱 I'm currently learning **Advanced System Design & Cloud Architecture**
