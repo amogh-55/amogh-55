@@ -77,11 +77,11 @@ Here are some ideas to get you started:
 
 <img align="right" alt="coding animation" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-> Software Engineering Intern | SIH Grand Finalist ’23 | Machine Learning Engineer | knight @leetcode(rated 1860) | Proficient in Java | AWS | Creating End-to-End Solutions.
+> Software Engineering Intern | SIH Grand Finalist ’23 | Machine Learning Engineer | knight @leetcode(rated 1860) | Proficient in Java | React Native | AWS | Creating End-to-End Solutions.
 
 - 👨‍💻 All of my projects are available at [my GitHub repositories](https://github.com/amogh-55?tab=repositories)
 - 📝 Check out my portfolio at [here](https://port-folio-delta-swart.vercel.app/)
-- 📄 View my resume [here](https://drive.google.com/file/d/1MRgIOdVSA-hnFKH2OeDZVxBhTkY14DSu/view?usp=sharing)
+- 📄 View my resume [here](https://drive.google.com/file/d/1cvsOmfywcxsC8wQsc7LzF6njOxUgpr1f/view)
 - 📫 Contact me at **amoghamith22@gmail.com**
 - 🔭 Currently working on **Full Stack Web Applications**
 - 🌱 I'm currently learning **Advanced System Design & Cloud Architecture**
