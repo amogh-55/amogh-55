@@ -184,9 +184,10 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-   <a href="https://github.com/amogh-55/Eventease">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=amogh-55&repo=Eventease&theme=dark" />
+  <a href="https://github.com/amogh-55/Event-Ease-">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=amogh-55&repo=Event-Ease-&theme=dark" />
 </a>
+
   <a href="https://github.com/amogh-55/speech-to-text-image-and-video-generation">
     <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=amogh-55&repo=speech-to-text-image-and-video-generation&theme=dark" />
   </a>
