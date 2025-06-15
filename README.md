@@ -184,17 +184,18 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
+   <a href="https://github.com/amogh-55/Eventease">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=amogh-55&repo=Eventease&theme=dark" />
+</a>
   <a href="https://github.com/amogh-55/speech-to-text-image-and-video-generation">
     <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=amogh-55&repo=speech-to-text-image-and-video-generation&theme=dark" />
   </a>
-  <a href="https://github.com/amogh-55/summer-Internship-">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=amogh-55&repo=summer-Internship-&theme=dark" />
-  </a>
+  
 </p>
 
 <p align="center">
-  <a href="https://github.com/amogh-55/-RBAC-Admin-Dashboard">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=amogh-55&repo=-RBAC-Admin-Dashboard&theme=dark" />
+<a href="https://github.com/amogh-55/summer-Internship-">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=amogh-55&repo=summer-Internship-&theme=dark" />
   </a>
   <a href="https://github.com/amogh-55/Malware-detection">
     <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=amogh-55&repo=Malware-detection&theme=dark" />
