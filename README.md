@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [my GitHub repositories](https://github.com/amogh-55?tab=repositories)
 - 📝 Check out my portfolio at [here](https://port-folio-delta-swart.vercel.app/)
-- 📄 View my resume [here](https://drive.google.com/file/d/1k9CtyOKlV3bZLTHdNZ-huMuRQsLV4H0k/view?usp=drivesdk)
+- 📄 View my resume [here](https://drive.google.com/file/d/15M_XkZLQ_J5o-S8klelQvdBTi0SIDfXg)
 - 📫 Contact me at **amoghamith22@gmail.com**
 - 🔭 Currently working on **Full Stack Web Applications**
 - 🌱 I'm currently learning **Advanced System Design & Cloud Architecture**
@@ -178,19 +178,23 @@ Here are some ideas to get you started:
   <a href="https://github.com/amogh-55/fundpitch">
     <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=amogh-55&repo=fundpitch&theme=dark" />
   </a>
-  <a href="https://github.com/amogh-55/Disaster-Managemet">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=amogh-55&repo=Disaster-Managemet&theme=dark" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/amogh-55/Eventease">
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=amogh-55&repo=Eventease&theme=dark" />
 </a>
 
-  <a href="https://github.com/amogh-55/speech-to-text-image-and-video-generation">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=amogh-55&repo=speech-to-text-image-and-video-generation&theme=dark" />
+
+  
+</p>
+
+<p align="center">
+<a href="https://github.com/amogh-55/Disaster-Managemet">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=amogh-55&repo=Disaster-Managemet&theme=dark" />
   </a>
+
+  <a href="https://github.com/amogh-55/Lumina-AI">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=amogh-55&repo=Lumina-AI&theme=dark" />
+</a>
+
   
 </p>
 
@@ -198,9 +202,12 @@ Here are some ideas to get you started:
 <a href="https://github.com/amogh-55/summer-Internship-">
     <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=amogh-55&repo=summer-Internship-&theme=dark" />
   </a>
-  <a href="https://github.com/amogh-55/Malware-detection">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=amogh-55&repo=Malware-detection&theme=dark" />
+
+
+  <a href="https://github.com/amogh-55/speech-to-text-image-and-video-generation">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=amogh-55&repo=speech-to-text-image-and-video-generation&theme=dark" />
   </a>
+
 </p>
 
 ## GitHub Analytics ⚙️
