@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 
 <img align="right" alt="coding animation" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-> Software Engineering Intern | SIH Grand Finalist ’23 | Machine Learning Engineer | knight @leetcode(rated 1860) | Proficient in Java | React Native | AWS | Creating End-to-End Solutions.
+> Software Engineer | SIH Grand Finalist ’23 | Machine Learning Engineer | knight @leetcode(rated 1860) | Proficient in Java | React Native | AWS | Creating End-to-End Solutions.
 
 - 👨‍💻 All of my projects are available at [my GitHub repositories](https://github.com/amogh-55?tab=repositories)
 - 📝 Check out my portfolio at [here](https://port-folio-delta-swart.vercel.app/)
