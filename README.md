@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [my GitHub repositories](https://github.com/amogh-55?tab=repositories)
 - 📝 Check out my portfolio at [here](https://port-folio-delta-swart.vercel.app/)
-- 📄 View my resume [here](https://drive.google.com/file/d/10gNFfscz5YDTwRoHh6XRCz6MsVoJwEZ4/view?usp=sharing)
+- 📄 View my resume [here](https://drive.google.com/file/d/1CARlIIu2kevJ2AtGwDGDswX9Tcq5WW8c/view)
 - 📫 Contact me at **amoghamith22@gmail.com**
 - 🔭 Currently working on **Full Stack Web Applications**
 - 🌱 I'm currently learning **Advanced System Design & Cloud Architecture**
@@ -174,40 +174,75 @@ Here are some ideas to get you started:
 
 ## Featured Projects 🌟
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💰 [FundPitch](https://github.com/amogh-55/fundpitch)
+
+A comprehensive funding and pitch platform connecting startups with investors. Built with modern web technologies for seamless user experience.
+
+**Tech Stack:** React, Node.js, MongoDB
+
+</td>
+<td width="50%" valign="top">
+
+### 🎉 [EventEase](https://github.com/amogh-55/Eventease)
+
+Complete event management system for planning, organizing, and executing events efficiently with real-time updates.
+
+**Tech Stack:** Next.js, TypeScript, PostgreSQL
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🚨 [Disaster Management System](https://github.com/amogh-55/Disaster-Managemet)
+
+**🏆 SIH Grand Finalist '23** - Emergency response and disaster coordination platform with real-time tracking and resource management.
+
+**Tech Stack:** React Native, AWS, MySQL
+
+</td>
+<td width="50%" valign="top">
+
+### ✨ [Lumina AI](https://github.com/amogh-55/Lumina-AI)
+
+AI-powered application leveraging machine learning for intelligent automation and data processing.
+
+**Tech Stack:** Python, TensorFlow, Flask
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 💼 [Summer Internship Project](https://github.com/amogh-55/summer-Internship-)
+
+Full-stack web application developed during summer internship, featuring complete CRUD operations and user authentication.
+
+**Tech Stack:** MERN Stack, REST API
+
+</td>
+<td width="50%" valign="top">
+
+### 🎤 [Speech to Media AI](https://github.com/amogh-55/speech-to-text-image-and-video-generation)
+
+Multi-modal AI system converting speech to text, images, and videos using advanced ML models.
+
+**Tech Stack:** Python, OpenAI API, React
+
+</td>
+</tr>
+</table>
+
 <p align="center">
-  <a href="https://github.com/amogh-55/fundpitch">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=amogh-55&repo=fundpitch&theme=dark" />
+  <a href="https://github.com/amogh-55?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/>
   </a>
-  <a href="https://github.com/amogh-55/Eventease">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=amogh-55&repo=Eventease&theme=dark" />
-</a>
-
-
-  
-</p>
-
-<p align="center">
-<a href="https://github.com/amogh-55/Disaster-Managemet">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=amogh-55&repo=Disaster-Managemet&theme=dark" />
-  </a>
-
-  <a href="https://github.com/amogh-55/Lumina-AI">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=amogh-55&repo=Lumina-AI&theme=dark" />
-</a>
-
-  
-</p>
-
-<p align="center">
-<a href="https://github.com/amogh-55/summer-Internship-">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=amogh-55&repo=summer-Internship-&theme=dark" />
-  </a>
-
-
-  <a href="https://github.com/amogh-55/speech-to-text-image-and-video-generation">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=amogh-55&repo=speech-to-text-image-and-video-generation&theme=dark" />
-  </a>
-
 </p>
 
 ## GitHub Analytics ⚙️
